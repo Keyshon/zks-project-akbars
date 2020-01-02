@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="testing.project.features.calculator.WhenEnteringInvalidCreditSum" skipped="0" tests="1" time="16.91" timestamp="2020-01-02 07:51:05"><testcase classname="testing.project.features.calculator.WhenEnteringInvalidCreditSum" name="Should be able to see default cost"/></testsuite>
